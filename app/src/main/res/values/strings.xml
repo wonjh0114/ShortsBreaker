@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ShortsBreaker</string>
+    <string name="enable_service">접근성 서비스 켜기</string>
+    <string name="popup_message">📵 지금 멈춰볼까요?</string>
+    <string name="service_description">ShortsBreaker는 유튜브 Shorts 및 인스타그램 Reels 시청을 감지하여 집중을 유도합니다.</string>
+</resources>
